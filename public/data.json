@@ -1,0 +1,93 @@
+
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Litton Das",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Wicket-Keeper",
+    "bowlingStyle": "Right-arm off-break",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Towhid Hridoy",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off-break",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 950
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg-break",
+    "battingStyle": "Right-handed",
+    "price": 850
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "England",
+    "playerType": "Wicket-Keeper",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 850
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "Australia",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm off-break",
+    "battingStyle": "Right-handed",
+    "price": 750
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrquiM7-4Ba3IQPanXkWd_3tjZ1_8RzEHg2POfzanUuA&s=10",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 700
+  }
+]
