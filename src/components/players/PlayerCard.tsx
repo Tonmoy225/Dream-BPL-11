@@ -1,5 +1,5 @@
 
-import React, { useState, type Dispatch, type SetStateAction } from 'react';
+import { useState, type Dispatch, type SetStateAction } from 'react';
 import type { Iplayer } from '../../types/player';
 import { FaUser, FaGlobe } from 'react-icons/fa';
 import { MdSportsCricket } from 'react-icons/md';
